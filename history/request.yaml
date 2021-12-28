@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE09OSSM-MFD35-04-ADCPSJ000-recovered_inst-adcp_config
+last_request: '2021-12-28T23:04:36.418194Z'
+response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-MFD35-04-ADCPSJ000-recovered_inst-adcp_config/main/history/response.json
+status: discontinued
